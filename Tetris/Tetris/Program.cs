@@ -1,8 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading;
-using Tetris;
-
 namespace Tetris
 {
     class Program
